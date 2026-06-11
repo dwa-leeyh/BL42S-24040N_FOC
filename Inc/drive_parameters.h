@@ -80,11 +80,11 @@
 
 /* Speed PID parameter dividers */
 #define SP_KPDIV                            512
-#define SP_KIDIV                            32768
+#define SP_KIDIV                            16384
 #define SP_KDDIV                            16384
 #define SP_KPDIV_LOG                        LOG2((512))
 #define SP_KIDIV_LOG                        LOG2((16384))
-#define SP_KDDIV_LOG                        LOG2((32768))
+#define SP_KDDIV_LOG                        LOG2((16384))
 
 /* USER CODE BEGIN PID_SPEED_INTEGRAL_INIT_DIV */
 #define PID_SPEED_INTEGRAL_INIT_DIV         0 /*  */
