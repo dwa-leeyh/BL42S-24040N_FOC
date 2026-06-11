@@ -1,0 +1,4 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mcp.c:58:9:RI_SetRegCommandParser	11
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mcp.c:161:9:RI_GetRegCommandParser	5
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mcp.c:227:6:MCP_ReceivedPacket	19
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mcp.c:407:9:MCP_RegisterCallBack	2

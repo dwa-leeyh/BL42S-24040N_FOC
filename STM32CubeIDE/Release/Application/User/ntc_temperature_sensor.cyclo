@@ -1,0 +1,3 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/ntc_temperature_sensor.c:123:13:NTC_Init	2
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/ntc_temperature_sensor.c:154:17:NTC_CalcAvTemp	8
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/ntc_temperature_sensor.c:197:16:NTC_GetAvTemp_C	2

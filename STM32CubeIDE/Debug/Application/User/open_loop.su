@@ -1,0 +1,4 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/open_loop.c:59:13:OL_Init	0	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/open_loop.c:82:13:OL_VqdConditioning	8	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/open_loop.c:99:13:OL_Calc	0	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/open_loop.c:135:13:OL_VF	0	static

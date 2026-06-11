@@ -1,0 +1,2 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/r_divider_bus_voltage_sensor.c:60:13:RVBS_Init	0	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/r_divider_bus_voltage_sensor.c:82:17:RVBS_CalcAvVbus	4	static

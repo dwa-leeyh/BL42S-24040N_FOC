@@ -1,0 +1,4 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/stm32g4xx_mc_it.c:72:6:ADC1_2_IRQHandler	0	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/stm32g4xx_mc_it.c:89:6:TIM2_IRQHandler	8	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/stm32g4xx_mc_it.c:141:6:TIM1_UP_TIM16_IRQHandler	0	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/stm32g4xx_mc_it.c:155:6:TIM1_BRK_TIM15_IRQHandler	8	static

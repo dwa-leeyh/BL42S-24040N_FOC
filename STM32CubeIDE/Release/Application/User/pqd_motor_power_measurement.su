@@ -1,0 +1,3 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/pqd_motor_power_measurement.c:74:13:PQD_CalcElMotorPower	4	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/pqd_motor_power_measurement.c:107:13:PQD_Clear	0	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/pqd_motor_power_measurement.c:132:16:PQD_GetAvrgElMotorPowerW	16	static

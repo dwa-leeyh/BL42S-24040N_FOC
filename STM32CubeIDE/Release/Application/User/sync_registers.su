@@ -1,0 +1,5 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/sync_registers.c:33:9:RI_SetRegisterGlobal	4	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/sync_registers.c:167:9:RI_SetRegisterMotor1	24	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/sync_registers.c:526:9:RI_GetRegisterGlobal	8	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/sync_registers.c:671:11:RI_GetRegisterMotor1	80	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/sync_registers.c:1145:9:RI_MovString	4	static

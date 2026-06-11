@@ -1,0 +1,2 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/pwm_common.c:54:13:startTimers	16	static
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/pwm_common.c:96:13:waitForPolarizationEnd	16	static

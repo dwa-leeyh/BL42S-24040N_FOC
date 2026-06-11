@@ -1,0 +1,6 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_math.c:71:20:MCM_Clarke	3
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_math.c:312:24:MCM_Trig_Functions	1
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_math.c:143:13:MCM_Park	5
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_math.c:258:20:MCM_Rev_Park	1
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_math.c:356:16:MCM_Sqrt	2
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_math.c:391:17:MCM_floatToIntBit	1

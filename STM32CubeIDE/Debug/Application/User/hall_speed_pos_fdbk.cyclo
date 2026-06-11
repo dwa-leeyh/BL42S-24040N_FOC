@@ -1,0 +1,6 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/hall_speed_pos_fdbk.c:100:13:HALL_Init	5
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/hall_speed_pos_fdbk.c:208:13:HALL_Clear	8
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/hall_speed_pos_fdbk.c:274:16:HALL_CalcElAngle	4
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/hall_speed_pos_fdbk.c:339:13:HALL_CalcAvrgMecSpeedUnit	6
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/hall_speed_pos_fdbk.c:429:14:HALL_TIMx_CC_IRQHandler	39
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/hall_speed_pos_fdbk.c:792:14:HALL_TIMx_UP_IRQHandler	12

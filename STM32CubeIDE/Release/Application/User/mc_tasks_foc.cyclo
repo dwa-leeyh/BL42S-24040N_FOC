@@ -1,0 +1,7 @@
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_tasks_foc.c:393:13:FOC_Clear	1
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_tasks_foc.c:112:13:FOC_Init	1
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_tasks_foc.c:177:6:TSK_MF_StopProcessing	1
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_tasks_foc.c:427:13:FOC_InitAdditionalMethods	1
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_tasks_foc.c:450:13:FOC_CalcCurrRef	2
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_tasks_foc.c:196:13:TSK_MediumFrequencyTaskM1	21
+D:/4_GIT_SRC_CODE/bldc/BL42S-24040N_FOC_Clean/Src/mc_tasks_foc.c:505:16:FOC_HighFrequencyTask	4
