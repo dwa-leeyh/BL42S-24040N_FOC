@@ -79,12 +79,12 @@
 #define SPEED_LOOP_FREQUENCY_HZ             (uint16_t)1000 /*!<Execution rate of speed regulation loop (Hz) */
 
 /* Speed PID parameter dividers */
-#define SP_KPDIV                            4
-#define SP_KIDIV                            128
-#define SP_KDDIV                            16
-#define SP_KPDIV_LOG                        LOG2((4))
-#define SP_KIDIV_LOG                        LOG2((128))
-#define SP_KDDIV_LOG                        LOG2((16))
+#define SP_KPDIV                            16384
+#define SP_KIDIV                            16384
+#define SP_KDDIV                            16384
+#define SP_KPDIV_LOG                        LOG2((16384))
+#define SP_KIDIV_LOG                        LOG2((16384))
+#define SP_KDDIV_LOG                        LOG2((16384))
 
 /* USER CODE BEGIN PID_SPEED_INTEGRAL_INIT_DIV */
 #define PID_SPEED_INTEGRAL_INIT_DIV         0 /*  */

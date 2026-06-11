@@ -460,13 +460,13 @@ __weak void *HALL_TIMx_CC_IRQHandler(void *pHandleVoid)
       {
         if (STATE_4 == bPrevHallState)
         {
-          pHandle->Direction = POSITIVE;
+          pHandle->Direction = NEGATIVE;
           pHandle->MeasuredElAngle = pHandle->PhaseShift;
 
         }
         else if (STATE_1 == bPrevHallState)
         {
-          pHandle->Direction = NEGATIVE;
+          pHandle->Direction = POSITIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift + S16_60_PHASE_SHIFT);
 
 		}
@@ -481,13 +481,13 @@ __weak void *HALL_TIMx_CC_IRQHandler(void *pHandleVoid)
       {
         if (STATE_5 == bPrevHallState)
         {
-          pHandle->Direction = POSITIVE;
+          pHandle->Direction = NEGATIVE;
           pHandle->MeasuredElAngle = pHandle->PhaseShift + S16_60_PHASE_SHIFT;
 
 		}
         else if (STATE_3 == bPrevHallState)
         {
-          pHandle->Direction = NEGATIVE;
+          pHandle->Direction = POSITIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift + S16_120_PHASE_SHIFT);
 
 		}
@@ -502,13 +502,13 @@ __weak void *HALL_TIMx_CC_IRQHandler(void *pHandleVoid)
       {
         if (STATE_1 == bPrevHallState)
         {
-          pHandle->Direction = POSITIVE;
+          pHandle->Direction = NEGATIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift + S16_120_PHASE_SHIFT);
 
 		}
         else if (STATE_2 == bPrevHallState)
         {
-          pHandle->Direction = NEGATIVE;
+          pHandle->Direction = POSITIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift + S16_120_PHASE_SHIFT + S16_60_PHASE_SHIFT);
 
         }
@@ -523,13 +523,13 @@ __weak void *HALL_TIMx_CC_IRQHandler(void *pHandleVoid)
       {
         if (STATE_3 == bPrevHallState)
         {
-          pHandle->Direction = POSITIVE;
+          pHandle->Direction = NEGATIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift + S16_120_PHASE_SHIFT + S16_60_PHASE_SHIFT);
 
 		}
         else if (STATE_6 == bPrevHallState)
         {
-          pHandle->Direction = NEGATIVE;
+          pHandle->Direction = POSITIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift - S16_120_PHASE_SHIFT);
 
 		}
@@ -544,13 +544,13 @@ __weak void *HALL_TIMx_CC_IRQHandler(void *pHandleVoid)
       {
         if (STATE_2 == bPrevHallState)
         {
-          pHandle->Direction = POSITIVE;
+          pHandle->Direction = NEGATIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift - S16_120_PHASE_SHIFT);
 
 		}
         else if (STATE_4 == bPrevHallState)
         {
-          pHandle->Direction = NEGATIVE;
+          pHandle->Direction = POSITIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift - S16_60_PHASE_SHIFT);
 
 		}
@@ -565,13 +565,13 @@ __weak void *HALL_TIMx_CC_IRQHandler(void *pHandleVoid)
       {
         if (STATE_6 == bPrevHallState)
         {
-          pHandle->Direction = POSITIVE;
+          pHandle->Direction = NEGATIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift - S16_60_PHASE_SHIFT);
 
 		}
         else if (STATE_5 == bPrevHallState)
         {
-          pHandle->Direction = NEGATIVE;
+          pHandle->Direction = POSITIVE;
           pHandle->MeasuredElAngle = (int16_t)(pHandle->PhaseShift);
 
         }
